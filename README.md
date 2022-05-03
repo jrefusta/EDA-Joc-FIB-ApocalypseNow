@@ -6,8 +6,8 @@ The teachers created a video game and the students had to program the AI behavio
 
 Grade: **10.0**.
 
-![]https://github.com/jrefusta/EDA-Joc-FIB-ApocalypseNow/blob/master/images/pic1.png) 
+![](https://github.com/jrefusta/EDA-Joc-FIB-ApocalypseNow/blob/master/images/pic1.png) 
 
 A tournament was held among all the students to decide the grade of this practice. You can watch the competition [here](https://jutge.org/competitions/EDA:EDA_Q2_2017_18/).
 
-![]https://github.com/jrefusta/EDA-Joc-FIB-ApocalypseNow/blob/master/images/pic2.png) 
+![](https://github.com/jrefusta/EDA-Joc-FIB-ApocalypseNow/blob/master/images/pic2.png) 
